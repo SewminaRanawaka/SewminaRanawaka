@@ -12,6 +12,8 @@
 
 ---
 
+<h2> About me <img src='https://media1.giphy.com/media/AWNxDbtHGIJDW/200w.gif?cid=6c09b952kdcsu7ibqaxgv3cpi5u8i7n4vlzy93qmhbuxykj9&ep=v1_gifs_search&rid=200w.gif&ct=g' width="50px"> </h2>
+
 - 🔭 I’m currently working on **Cisco Packet Tracer**
 
 - 🌱 I’m currently learning **Linux**
@@ -21,6 +23,8 @@
 - ⚡ Fun fact **Friends Call me as Sewwa.**
 
 ---
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <a href="https://linkedin.com/in/sewmina maduranga ranawaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sewmina maduranga ranawaka" height="50" width="50" /></a>
 <a href="https://fb.com/sewmina ranawaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sewmina ranawaka" height="50" width="50" /></a>
