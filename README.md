@@ -6,13 +6,16 @@
 
 <h3 align="center">A Computer System & Network Engineer Student from Sri Lanka</h3>
 
+
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sewminaranawaka&label=Profile%20views&color=0e75b6&style=flat" alt="sewminaranawaka" /> </p>
 
  <img align="right" top="500" height="200" width="400" alt="GIF" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*LnOSvWkXLLZPtkjWpau4MA.gif">
 
 ---
 
-<h2> About me <img src='https://media1.giphy.com/media/AWNxDbtHGIJDW/200w.gif?cid=6c09b952kdcsu7ibqaxgv3cpi5u8i7n4vlzy93qmhbuxykj9&ep=v1_gifs_search&rid=200w.gif&ct=g' width="50px"> </h2>
+<h2> About me 😎  </h2>
 
 - 🔭 I’m currently working on **Cisco Packet Tracer**
 
