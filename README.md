@@ -30,7 +30,7 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <a href="https://linkedin.com/in/sewmina ranawaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sewmina maduranga ranawaka" height="50" width="50" /></a>
-<a href="https://fb.com/sewmina ranawaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sewmina ranawaka" height="50" width="50" /></a>
+<a href="https://fb.com/sewmina_ranawaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sewmina ranawaka" height="50" width="50" /></a>
 <a href="https://instagram.com/sewmina_maduranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sewmina_maduranga" height="50" width="50" /></a>
 </p>
 
