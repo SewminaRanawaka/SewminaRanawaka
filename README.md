@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sewminaranawaka&label=Profile%20views&color=0e75b6&style=flat" alt="sewminaranawaka" /> </p>
 
-- 🔭 I’m currently working on **Java Project**
+- 🔭 I’m currently working on **Cisco Packet Tracer**
 
 - 🌱 I’m currently learning **Linux**
 
