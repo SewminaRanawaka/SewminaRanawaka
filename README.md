@@ -17,9 +17,9 @@
 
 <h2> About me 😎  </h2>
 
-- 🔭 I’m currently working on **Cisco Packet Tracer**
+- 🔭 I’m currently learning on **Sri Lanka Institute Of Information Technology**
 
-- 🌱 I’m currently learned  **Basic of Linux**
+- 🌱 I’m learned  **Basic of Linux**
 
 - 📫 How to reach me **sewminamaduranga.0224@gmail.com**
 
