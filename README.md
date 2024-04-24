@@ -19,11 +19,11 @@
 
 - 🔭 I’m currently working on **Cisco Packet Tracer**
 
-- 🌱 I’m currently learning **Linux**
+- 🌱 I’m currently learned  **Basic of Linux**
 
 - 📫 How to reach me **sewminamaduranga.0224@gmail.com**
 
-- ⚡ Fun fact **Friends Call me as Sewwa.**
+- ⚡ Fun fact **Friends Call me Sewwa.**
 
 ---
 
